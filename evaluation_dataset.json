@@ -1,0 +1,2948 @@
+[
+  {
+    "question": "What is the license under which the book is released?",
+    "ground_truth": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 3
+  },
+  {
+    "question": "How many chapters are in Part I of the Main Body?",
+    "ground_truth": "7",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 4
+  },
+  {
+    "question": "What is the primary focus of the book 'Introduction to Logistics'?",
+    "ground_truth": "Moving and storing products in a manufacturing supply chain.",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 6
+  },
+  {
+    "question": "Who is the subject of the text?",
+    "ground_truth": "Robert",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 7
+  },
+  {
+    "question": "On which traditional territories is Conestoga College located?",
+    "ground_truth": "The traditional territory of the Anishnaabe, Haudenosaunee, and Neutral peoples.",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 9
+  },
+  {
+    "question": "Which program at Conestoga College ITAL was Erjona Ferizi a part of during her co-op?",
+    "ground_truth": "Bachelor of Public Relations",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 10
+  },
+  {
+    "question": "Has Conestoga College adopted Open Access learning materials (OAs) in addition to Open Educational Resources (OERs)?",
+    "ground_truth": "Yes",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 11
+  },
+  {
+    "question": "What is considered a subset or part of a supply chain?",
+    "ground_truth": "Logistics.",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 12
+  },
+  {
+    "question": "What is the license for the image used in the document?",
+    "ground_truth": "CC BY 2.0",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 13
+  },
+  {
+    "question": "What are the two main categories of logistics?",
+    "ground_truth": "Internal logistics and External Logistics",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 14
+  },
+  {
+    "question": "What is the primary method of transmitting information in an information supply chain?",
+    "ground_truth": "Information systems and electronic data interchange (EDI)",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 15
+  },
+  {
+    "question": "What is the main difference between a traditional linear product supply chain and a circular supply chain?",
+    "ground_truth": "A circular supply chain emphasizes reusing waste materials and returned or old products, whereas a traditional linear supply chain does not.",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 16
+  },
+  {
+    "question": "What is the primary difference between supply chain and value chain, according to this text?",
+    "ground_truth": "They are considered to mean the same thing for this OER.",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 17
+  },
+  {
+    "question": "What does SCM stand for, according to the APICS Dictionary, 13th edition?",
+    "ground_truth": "Supply Chain Management",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 18
+  },
+  {
+    "question": "What are the reasons for using reverse logistics?",
+    "ground_truth": "The defective product needs to be returned for replacement or repair, The product needs servicing, The product needs to be disposed of or scrapped, The product is returned for upgrading or refurbishment, The product is repurposed.",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 19
+  },
+  {
+    "question": "According to the Reverse Logistics Association, how many times are returns on e-commerce orders higher than brick and mortar purchases?",
+    "ground_truth": "three to four times",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 20
+  },
+  {
+    "question": "What type of goods need to be delivered to manufacturers in the supply chain?",
+    "ground_truth": "materials/goods",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 21
+  },
+  {
+    "question": "What may cause a chocolate manufacturer to start building inventory in late spring?",
+    "ground_truth": "Christmas demand",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 22
+  },
+  {
+    "question": "In a linear economy, what typically happens to obsolete products?",
+    "ground_truth": "They would just be thrown out into landfills.",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 23
+  },
+  {
+    "question": "What happens to materials and products on a supply chain after consumers are done with them?",
+    "ground_truth": "They can be broken down into sub-components or raw materials to re-enter the supply chain in a new form.",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 24
+  },
+  {
+    "question": "What is the traditional 'take-make-dispose' plan in a linear economy called?",
+    "ground_truth": "A linear economy",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 25
+  },
+  {
+    "question": "How much federal funds are going to clean up inactive wells in Alberta?",
+    "ground_truth": "$1 billion",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 26
+  },
+  {
+    "question": "In what way does a tree's life cycle differ from Canada's dominant economic model?",
+    "ground_truth": "A tree is reborn from its own waste, enriching the soil and providing nourishment for new life, unlike Canada's dominant economic model where resources are collected, consumed, and become waste.",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 27
+  },
+  {
+    "question": "What part of supply chain management does CSCMP define as 'logistics management'?",
+    "ground_truth": "That part of supply chain management that plans, implements, and controls the efficient, effective forward and reverses flow and storage of goods, services and related information.",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 28
+  },
+  {
+    "question": "Where did the co-author notice the vending machine with different sizes of Coca-Cola cans?",
+    "ground_truth": "Tokyo, Japan",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 29
+  },
+  {
+    "question": "What is the organization that provides the definitions and glossary of terms for supply chain management?",
+    "ground_truth": "Council of Supply Chain Management Professionals (CSCMP)",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 30
+  },
+  {
+    "question": "What type of economy is shown in Figure 1.6?",
+    "ground_truth": "Linear economy",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 31
+  },
+  {
+    "question": "When did computers enter the scene in relation to the logistics industry?",
+    "ground_truth": "1950",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 32
+  },
+  {
+    "question": "According to the Supply and Demand Chain Executive, what is the estimated value of the logistics market in North America by 2023?",
+    "ground_truth": "$12 trillion",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 33
+  },
+  {
+    "question": "What is the ultimate goal of technology in the Logistics Information Structure (LIS)?",
+    "ground_truth": "to provide real-time information",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 34
+  },
+  {
+    "question": "According to Majaski (2021), what is the primary advantage of a decentralized distributed ledger?",
+    "ground_truth": "It is less prone to cyber attack, fraud, and other manipulation since there is no single point or central authority required.",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 35
+  },
+  {
+    "question": "What company produced the video 'Blockchain in 7 minutes'?",
+    "ground_truth": "Simplilearn",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 36
+  },
+  {
+    "question": "In what year did ELDs become a federal requirement in many jurisdictions?",
+    "ground_truth": "Not mentioned",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 37
+  },
+  {
+    "question": "What is one type of information typically contained on a barcode?",
+    "ground_truth": "pricing information, product number and description",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 38
+  },
+  {
+    "question": "What type of RFID tags use energy from the reader?",
+    "ground_truth": "Passive tags",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 39
+  },
+  {
+    "question": "What is the source of Chapter 7: Supply Chain Management, which was adapted in Section 2.9?",
+    "ground_truth": "Introduction to Operations Management by Hamid Faramarzi and Mary Drane",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 40
+  },
+  {
+    "question": "What is the definition of logistics cost?",
+    "ground_truth": "The total cost of moving freight from one location to another.",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 41
+  },
+  {
+    "question": "What are the two types of costs associated with trucking?",
+    "ground_truth": "Fixed and Variable costs",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 42
+  },
+  {
+    "question": "According to the Canadian Trucking Alliance's 2011 report, what was the predicted driver gap by 2020?",
+    "ground_truth": "up to 33,000 drivers",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 43
+  },
+  {
+    "question": "What is the purpose of moving the tractor without a trailer?",
+    "ground_truth": "Deadhead or bobtail: moving the tractor without a trailer is often done at the beginning or end of a move.",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 44
+  },
+  {
+    "question": "What is the primary source of revenue for a service provider when pricing a move?",
+    "ground_truth": "Highway miles",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 45
+  },
+  {
+    "question": "How do trucking companies usually price backhaul loads compared to headhaul loads?",
+    "ground_truth": "Carriers will often cost the fixed costs of a move in the headhaul and only price the variable costs in the backhaul move.",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 46
+  },
+  {
+    "question": "What is the minimum number of trailers required for a drop and hook delivery?",
+    "ground_truth": "Two",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 47
+  },
+  {
+    "question": "What is the typical grace period a service provider has to the window time?",
+    "ground_truth": "a +/- 15 minute grace period",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 48
+  },
+  {
+    "question": "What year did the Canadian Trucking Alliance publish its study on the truck driver shortage?",
+    "ground_truth": "2016",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 49
+  },
+  {
+    "question": "What type of temperature is required to maintain during transit for the Pfizer-BioNTech COVID-19 vaccine?",
+    "ground_truth": "frozen",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 50
+  },
+  {
+    "question": "What is an emerging transportation mode mentioned in the text?",
+    "ground_truth": "The use of drones for delivery from airports.",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 51
+  },
+  {
+    "question": "What is the typical weight range of an LTL shipment?",
+    "ground_truth": "100 to 5,000 pounds",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 52
+  },
+  {
+    "question": "What type of shipment is used by automotive manufacturing supply chains?",
+    "ground_truth": "Full Truck Load (FTL)",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 53
+  },
+  {
+    "question": "How many bulk carrier ships are sailing the seas?",
+    "ground_truth": "over 12,000",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 54
+  },
+  {
+    "question": "What are the requirements for handling and storing the product if it is fragile?",
+    "ground_truth": "It can only take a certain amount of jostling and banging.",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 55
+  },
+  {
+    "question": "What is the unit weight of one bushel of wheat?",
+    "ground_truth": "60 pounds",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 56
+  },
+  {
+    "question": "In 2013, what organization identified the shortage of qualified transport truck drivers in Canada?",
+    "ground_truth": "The Conference Board of Canada",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 57
+  },
+  {
+    "question": "What type of products may be transported on a flatbed truck?",
+    "ground_truth": "large oversized products or products that do not require protection",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 58
+  },
+  {
+    "question": "What type of permits and vehicles are required to transport oversized and heavy loads?",
+    "ground_truth": "Special permits and safety vehicle escorts are required to ensure safety.",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 59
+  },
+  {
+    "question": "What type of materials do farmers often use dump trucks to carry in the supply chain?",
+    "ground_truth": "bulk crops such as corn or soybeans",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 60
+  },
+  {
+    "question": "What is typically used by consumers at the end of the supply chain to carry heavy items or to pull trailers full of products?",
+    "ground_truth": "pick-up trucks",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 61
+  },
+  {
+    "question": "What accounted for five of the industry's 10 best-selling vehicles in 2020?",
+    "ground_truth": "trucks from the Detroit automakers",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 62
+  },
+  {
+    "question": "What is the most challenging dimension for companies like Perkins STC when moving large objects by road?",
+    "ground_truth": "height",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 63
+  },
+  {
+    "question": "Is bicycle courier a mode of small package delivery?",
+    "ground_truth": "Yes",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 64
+  },
+  {
+    "question": "Is it cheaper to build railroads than it is to build roads?",
+    "ground_truth": "Yes",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 65
+  },
+  {
+    "question": "According to the text, why are trains being used to transport oil more often?",
+    "ground_truth": "The demand for oil is exceeding pipeline capacity and it costs more to ship by train.",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 66
+  },
+  {
+    "question": "In 2018, what happened to pipeline capacity in Western Canada?",
+    "ground_truth": "It began to outpace oil production.",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 67
+  },
+  {
+    "question": "What type of aircraft are used for transporting goods, but do not have windows?",
+    "ground_truth": "Dedicated Freighters",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 69
+  },
+  {
+    "question": "How many aircraft does UPS own or charter?",
+    "ground_truth": "almost 600",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 70
+  },
+  {
+    "question": "What percentage of air cargo is carried in the belly holds of passenger aircraft?",
+    "ground_truth": "Typically between 45% and 50%",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 71
+  },
+  {
+    "question": "What were passenger aircraft being used for during the COVID-19 pandemic?",
+    "ground_truth": "They were storing and moving cargo in empty seats.",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 72
+  },
+  {
+    "question": "How many Douglas DC3/C47 transport planes were built during World War II?",
+    "ground_truth": "Over 10,000",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 73
+  },
+  {
+    "question": "In 2021, what would Amazon like to think is the future for delivering products?",
+    "ground_truth": "delivering products to your door using drones",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 74
+  },
+  {
+    "question": "What mode of transportation can land in many different places other than an airport?",
+    "ground_truth": "Helicopters",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 75
+  },
+  {
+    "question": "What type of gas was used in dirigibles before the Hindenburg disaster?",
+    "ground_truth": "hydrogen",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 76
+  },
+  {
+    "question": "What is the estimated travel time to most places on earth using rockets as a means of transport?",
+    "ground_truth": "less than an hour",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 77
+  },
+  {
+    "question": "What percentage of global maritime container trade accounts for seaborne trade in terms of value?",
+    "ground_truth": "60%",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 78
+  },
+  {
+    "question": "What type of materials can bulk carriers accommodate in their holds?",
+    "ground_truth": "bulk raw materials like ore, wheat and sugar",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 79
+  },
+  {
+    "question": "What is the primary purpose of the ship described in Figure 4.22?",
+    "ground_truth": "The primary purpose of the ship is to transport automobiles.",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 81
+  },
+  {
+    "question": "How many tons of gasoline, petroleum products, and other chemicals are shipped annually on the Mississippi River?",
+    "ground_truth": "200 million tons",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 82
+  },
+  {
+    "question": "What is an example of multimodal shipping?",
+    "ground_truth": "A combination of truck, ship, and train.",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 83
+  },
+  {
+    "question": "What is the benefit of using containers in shipping?",
+    "ground_truth": "It increases security, reduces loss and damage, and increases the speed of shipment.",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 84
+  },
+  {
+    "question": "What type of protection do standardized container sizes offer to cargo during transportation?",
+    "ground_truth": "in-transit weather protection",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 85
+  },
+  {
+    "question": "What is the standard size of a shipping container?",
+    "ground_truth": "40′ x 8′ x 8′",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 86
+  },
+  {
+    "question": "What is the standard size of a pallet?",
+    "ground_truth": "48″ X 40″",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 87
+  },
+  {
+    "question": "What is one purpose of packaging according to the CC BY-SA 4.0 licensed content?",
+    "ground_truth": "Barrier protection",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 88
+  },
+  {
+    "question": "What type of damage is visible to the product in Figure 4.33?",
+    "ground_truth": "The product is damaged.",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 89
+  },
+  {
+    "question": "How many pounds of lunar rocks were returned from the Apollo 11 mission?",
+    "ground_truth": "46 pounds",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 91
+  },
+  {
+    "question": "What is the primary limitation of airplanes in terms of cargo?",
+    "ground_truth": "They cannot carry large and heavy things.",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 92
+  },
+  {
+    "question": "What is a key factor that guides the logistical choice of transportation mode?",
+    "ground_truth": "specifications, cost, speed, customer requirements, and characteristics of the product",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 93
+  },
+  {
+    "question": "What is the license type for the photograph 'Good year blimp' by foundin_a_attic?",
+    "ground_truth": "CC BY-SA 2.0",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 94
+  },
+  {
+    "question": "What is the license under which the photograph 'Class 50 mixed goods, July 1978' is licensed for reuse?",
+    "ground_truth": "CC BY 2.0",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 95
+  },
+  {
+    "question": "What is the license for the photograph 'Evergreen Sikorsky S-64E Skycrane at Tehachapi (California) Airport'?",
+    "ground_truth": "CC BY-SA 3.0",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 96
+  },
+  {
+    "question": "According to Train Conductor Headquarters, what is the maximum allowed length of a freight train?",
+    "ground_truth": "No specific length is provided in the given chunk, but it does mention that a specific length is required for freight trains, implying that there is a maximum allowed length.",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 97
+  },
+  {
+    "question": "What are the primary advantages of multimodal transportation?",
+    "ground_truth": "It uses a combination of modes through a carrier, products secured in containers and contractual with a single carrier.",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 98
+  },
+  {
+    "question": "What are some specific conditions that products may require during movement and storage?",
+    "ground_truth": "Specific conditions may include temperature control.",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 99
+  },
+  {
+    "question": "What forms may storage take in a warehouse?",
+    "ground_truth": "raw material storage, finished good storage, in-transit storage, and storage in distribution centres",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 100
+  },
+  {
+    "question": "What is the process used by Amazon's Fulfillment Centres?",
+    "ground_truth": "Amazon's seven-step warehouse process",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 101
+  },
+  {
+    "question": "What determines the number of warehouses required for a product in the supply chain?",
+    "ground_truth": "The number of warehouses is determined by the materials or product, their transportation and storage needs, the distribution network used, and cost.",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 102
+  },
+  {
+    "question": "In what stages are warehouses located in a supply chain?",
+    "ground_truth": "Raw materials and product manufacturing stages",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 103
+  },
+  {
+    "question": "What type of destination do cars being stored outside an automotive manufacturing plant await?",
+    "ground_truth": "car dealerships",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 104
+  },
+  {
+    "question": "What types of warehouses are common during the in-transit phase of the supply chain?",
+    "ground_truth": "Consolidation, cross-docking, break-bulk, hub-and-spoke, or distribution centers.",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 105
+  },
+  {
+    "question": "What is the primary purpose of cross-docking in warehouses?",
+    "ground_truth": "It is a fast way to split the load of one type of product per truck into mixed loads on another truck.",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 106
+  },
+  {
+    "question": "According to the APICS Dictionary, what is break bulk?",
+    "ground_truth": "dividing truckloads, railcars or containers of homogeneous items into smaller, more appropriate quantities for use",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 107
+  },
+  {
+    "question": "What is the primary purpose of a distribution center?",
+    "ground_truth": "The primary purpose of a distribution center is to be the last stop before a product is shipped to a wholesaler, retailer, or to an end-user.",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 108
+  },
+  {
+    "question": "What is the typical use case for a storage area at a factory?",
+    "ground_truth": "The incoming materials will need to be stored before moving on to the next step in the manufacturing process.",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 109
+  },
+  {
+    "question": "What is the purpose of the tractor-trailer shown in Figure 5.9?",
+    "ground_truth": "Carrying cars to a dealership",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 110
+  },
+  {
+    "question": "What is the purpose of the storage lot shown in Figure 5.10?",
+    "ground_truth": "A destination warehouse where cars are prepared for sale.",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 111
+  },
+  {
+    "question": "What types of equipment are used to move cargo to storage at ports?",
+    "ground_truth": "Large cranes",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 112
+  },
+  {
+    "question": "Where is the image of the movable overhead crane with clamping devices being used?",
+    "ground_truth": "an intermodal yard",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 113
+  },
+  {
+    "question": "What types of cranes are used at bulk ship terminals based on their location?",
+    "ground_truth": "Quay crane, floating crane, and deck crane",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 115
+  },
+  {
+    "question": "What is usually required to operate a forklift truck?",
+    "ground_truth": "Specific licenses and certain permits",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 116
+  },
+  {
+    "question": "What is the primary function of a hand pallet truck?",
+    "ground_truth": "It can be used to move inventory in a warehouse by sliding underneath a skid.",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 117
+  },
+  {
+    "question": "Where is the location of the Poissonnerie Municipale?",
+    "ground_truth": "Le Tréport, France",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 118
+  },
+  {
+    "question": "What are the two methods used to check inventory in a warehouse?",
+    "ground_truth": "Complete counts and cycle counts",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 119
+  },
+  {
+    "question": "What is the goal of successful warehouse storage?",
+    "ground_truth": "Safely storing and handling products so that all of it is accounted for and it can leave for its next destination safely.",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 120
+  },
+  {
+    "question": "What is the role of the type of warehouse used in an efficient supply chain?",
+    "ground_truth": "It plays an important role.",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 122
+  },
+  {
+    "question": "Who took the photograph 'Talleyrand terminal railroad'?",
+    "ground_truth": "Jaxport",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 123
+  },
+  {
+    "question": "What type of license is used by the image 'Forklift' by Tynt22?",
+    "ground_truth": "CC BY-SA 3.0",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 124
+  },
+  {
+    "question": "What is an alternative to a traditional warehouse in the logistics system?",
+    "ground_truth": "Distribution centers, outside storage areas, and storage yards might also be used.",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 125
+  },
+  {
+    "question": "What is the common term used in logistics to describe a logistics service provider?",
+    "ground_truth": "3PL (third-party logistics)",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 126
+  },
+  {
+    "question": "When was the term '3PL' first used to identify intermodal marketing companies (IMCs) in transportation contracts?",
+    "ground_truth": "The early 1970s",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 127
+  },
+  {
+    "question": "What is a key difference between a 3PL and a 4PL organization, according to Vitasek (2013)?",
+    "ground_truth": "A 4PL organization is often a separate entity established as a joint venture or long-term contract between a primary client and one or more partners.",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 128
+  },
+  {
+    "question": "What is the definition of 5PL included in this chapter?",
+    "ground_truth": "Not discussed in this chapter",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 129
+  },
+  {
+    "question": "What was the impact of shipping container shortages during the Covid-19 pandemic?",
+    "ground_truth": "They delayed delivery.",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 130
+  },
+  {
+    "question": "Where does the transportation strategy formulation begin in a global supply chain?",
+    "ground_truth": "The purchasing phase",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 131
+  },
+  {
+    "question": "What organization developed the Incoterms?",
+    "ground_truth": "International Chamber of Commerce (ICC)",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 132
+  },
+  {
+    "question": "What are the two predominant modes of global transportation?",
+    "ground_truth": "Ocean and air freight",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 133
+  },
+  {
+    "question": "In what step of the global logistics validation mapping process is a critical link in global transportation established?",
+    "ground_truth": "Step 4 is not correct and the document does not specify a step number for establishing a robust financial settlement process, but it says 'during step one of the process'.",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 134
+  },
+  {
+    "question": "What year did the International Chamber Of Commerce publish the INCOTERMS 2020?",
+    "ground_truth": "2021",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 135
+  },
+  {
+    "question": "Who governs OTR transportation in Ontario?",
+    "ground_truth": "The regulator body governing OTR transportation in Ontario is mentioned, but specific names are not provided in this chunk. However, it is stated that one should review and check with the regulator body before moving freight into Ontario.",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 136
+  },
+  {
+    "question": "Who regulates transport at the federal level in the United States of America?",
+    "ground_truth": "The Department of Transportation",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 137
+  },
+  {
+    "question": "How many hours of off-duty time must a driver take in a day?",
+    "ground_truth": "At least 10 hours",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 138
+  },
+  {
+    "question": "What is the total duration of on-duty time immediately before and after a period of off-duty time under the regulation?",
+    "ground_truth": "14 hours",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 139
+  },
+  {
+    "question": "In what year did Ontario introduce a four-phase change to the vehicle weight and dimension regulation?",
+    "ground_truth": "2010",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 140
+  },
+  {
+    "question": "Who governs the aviation sector in Canada?",
+    "ground_truth": "The aviation sector in Canada is governed at the federal level.",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 141
+  },
+  {
+    "question": "Who is primarily responsible for enforcing rail safety regulations in Canada?",
+    "ground_truth": "Transport Canada",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 142
+  },
+  {
+    "question": "What is the document title for the Transport Canada's November 22, 2021, publication?",
+    "ground_truth": "Motor carriers, commercial vehicles and drivers",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 143
+  },
+  {
+    "question": "What is the title of the chapter in the document that discusses risks and challenges?",
+    "ground_truth": "Risks and Challenges",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 144
+  },
+  {
+    "question": "According to the source cited, what was the total value of stolen items recovered in St. Thomas, Ontario?",
+    "ground_truth": "$1.5 million",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 145
+  },
+  {
+    "question": "How long were the truck lines on the A4 highway in the European Union after Poland closed its borders?",
+    "ground_truth": "37 miles",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 146
+  },
+  {
+    "question": "What was the cause of extreme flooding in British Columbia in November 2021?",
+    "ground_truth": "Thought to be the result of slow responses to climate change.",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 147
+  },
+  {
+    "question": "What was the impact on the electrical grid in Texas due to the significant winter storm?",
+    "ground_truth": "The electrical grid was knocked out.",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 148
+  },
+  {
+    "question": "According to Kaplan (2021), what impact did the wildfires in California have on logistics networks?",
+    "ground_truth": "[w]ith wildfire risks, some companies are considering moving warehousing operations or sourcing from vendors outside of potential fire danger areas",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 149
+  },
+  {
+    "question": "How many miles of coastline were damaged in the Exxon Valdez accident?",
+    "ground_truth": "1100 miles",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 150
+  },
+  {
+    "question": "Where is the information about the Exxon Valdez Oil Spill Disaster image sourced from?",
+    "ground_truth": "ARLIS Reference, 2010",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 151
+  },
+  {
+    "question": "What event caused reduced operations at factories overseas in 2020?",
+    "ground_truth": "COVID-19",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 152
+  },
+  {
+    "question": "What form of energy is used by supply chains to provide power for industries and logistics networks?",
+    "ground_truth": "electricity and heat generated from water flow, fossils fuels, renewable energy, and other sources",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 153
+  },
+  {
+    "question": "How much could the 2021 Suez Canal blockage cost global trade per week?",
+    "ground_truth": "$6bn to $10bn",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 154
+  },
+  {
+    "question": "How many deaths in workplaces in Ontario were reported due to power-lift incidents in the mid-1990s?",
+    "ground_truth": "18",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 155
+  },
+  {
+    "question": "What is the name of the reference by Eavies and Boudette published in The New York Times?",
+    "ground_truth": "Winter storm disrupts wide swath of American business",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 156
+  },
+  {
+    "question": "In what year did a container ship called 'Ever Given' get stuck in the Suez Canal, Egypt?",
+    "ground_truth": "2021",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 157
+  },
+  {
+    "question": "What is the license type for the reuse of the photographs in this document?",
+    "ground_truth": "CC BY-NC 2.0",
+    "source": "raw_data\\Introduction-to-Logistics-1731957331._print.pdf",
+    "page": 158
+  },
+  {
+    "question": "Who are the implementing partners of the USAID | DELIVER PROJECT Task Order 1?",
+    "ground_truth": "John Snow, Inc., in collaboration with PATH; Crown Agents Consultancy, Inc.; Abt Associates; Fuel Logistics Group (Pty) Ltd.; UPS Supply Chain Solutions; The Manof Group; and 3i Infotech.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 3
+  },
+  {
+    "question": "What is the main content of the provided document chunk?",
+    "ground_truth": "Contents",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 4
+  },
+  {
+    "question": "How many horizontal lines are present in the document chunk?",
+    "ground_truth": "9",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 5
+  },
+  {
+    "question": "How many lines of whitespace characters are there in the given document chunk?",
+    "ground_truth": "9",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 6
+  },
+  {
+    "question": "What is the meaning of ALu in the document?",
+    "ground_truth": "artemether+lumefantrine (antimalarial medicine)",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 8
+  },
+  {
+    "question": "What is the name of the tool used for logistics system assessment?",
+    "ground_truth": "LSAT",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 9
+  },
+  {
+    "question": "What types of health commodities are covered by the logistics handbook?",
+    "ground_truth": "essential drugs, antiretroviral medicines, vaccines, contraceptives, antimalarial medicines, HIV and malaria rapid diagnostic tests, tuberculosis (TB) medicines, essential medicines, and others.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 10
+  },
+  {
+    "question": "What is the definition of logistics management according to the Council of Supply Chain Management Professionals (CSCMP)?",
+    "ground_truth": "[The] part of supply chain management that plans, implements, and controls the efficient, effective movement and storage of goods, services and related information from raw materials to end customers.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 12
+  },
+  {
+    "question": "What was the initial perception of logistics within health programs?",
+    "ground_truth": "Logistics was considered a custodial activity.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 13
+  },
+  {
+    "question": "What is the title of Figure 1-1 in the document?",
+    "ground_truth": "Correlation between Contraceptive Prevalence Rate and Product Availability",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 14
+  },
+  {
+    "question": "What are the six rights of logistics?",
+    "ground_truth": "The RIGHT goods in the RIGHT quantities in the RIGHT condition delivered to the RIGHT place at the RIGHT time for the RIGHT cost.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 15
+  },
+  {
+    "question": "What is the nature of the logistics cycle as described in the given text?",
+    "ground_truth": "cyclical or repetitive",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 16
+  },
+  {
+    "question": "What are the six rights that a logistics system ensures customer service by fulfilling?",
+    "ground_truth": "the six rights",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 17
+  },
+  {
+    "question": "What are some important activities that are part of a well-functioning logistics system?",
+    "ground_truth": "organization and staffing, budget allocation and management, and health programs that assign resources to staff.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 18
+  },
+  {
+    "question": "What is included in procurement documents to ensure product quality?",
+    "ground_truth": "Detailed product and packaging specifications, and the expectations for quality at the time of receipt.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 19
+  },
+  {
+    "question": "What are the terms that are used interchangeably to refer to people who receive or use supplies?",
+    "ground_truth": "users, clients, patients, and customers",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 20
+  },
+  {
+    "question": "When calculating lead time, what must be included in the time up to when the stock is available for use?",
+    "ground_truth": "All the time up to when the stock is received, inspected, recorded, and put on the shelf.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 21
+  },
+  {
+    "question": "What are the activities included in in-country lead time?",
+    "ground_truth": "1. The ordering facility (lower-level) manager determines that more stock is needed. 2. An order form is completed and sent to the upper level. 3. The upper level receives the order and a manager approves the order (usually by signing the form). 4. The manager sends the form to the storekeeper. 5. The storekeeper picks and packs the order and gives it to a driver. 6. The driver takes the order and transports it to the ordering facility. 7. The ordering facility receives the order, conducts a visual inspection, places the order on the shelf, and records the receipt on a stock card.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 22
+  },
+  {
+    "question": "What type of system does a restaurant use that allows customers to decide what food to eat?",
+    "ground_truth": "requisition system",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 23
+  },
+  {
+    "question": "Why should only one logistics system be used at one level?",
+    "ground_truth": "To avoid confusion and delays.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 24
+  },
+  {
+    "question": "What is preferred when using issues data as a substitute for consumption data in systems without consumption data?",
+    "ground_truth": "Issues data from the lowest level possible, such as facility store to dispensary, for a closer estimate of actual consumption.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 25
+  },
+  {
+    "question": "What type of logistics system does Malawi maintain for the ARV therapy program?",
+    "ground_truth": "Vertical",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 26
+  },
+  {
+    "question": "What is the purpose of a logistics system?",
+    "ground_truth": "To supply the right goods, in the right quantities, in the right condition, to the right place, at the right time, and at the right cost; and to provide good customer service.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 27
+  },
+  {
+    "question": "What is the name of the chapter in the document that discusses logistics management information systems?",
+    "ground_truth": "Logistics Management Information Systems",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 28
+  },
+  {
+    "question": "What is the purpose of collecting data in a logistics management information system (LMIS)?",
+    "ground_truth": "To make informed decisions that will ultimately improve customer service.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 29
+  },
+  {
+    "question": "What is the definition of 'stock on hand' in logistics?",
+    "ground_truth": "The quantities of usable stock available.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 30
+  },
+  {
+    "question": "Who is responsible for completing stockkeeping records in a pharmacy?",
+    "ground_truth": "The pharmacist and other pharmacy staff are responsible for completing these stockkeeping records.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 31
+  },
+  {
+    "question": "What is an inventory control card?",
+    "ground_truth": "An individual stockkeeping record that holds information about all the lots of a single product.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 32
+  },
+  {
+    "question": "Is the stores ledger a bound book?",
+    "ground_truth": "yes",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 33
+  },
+  {
+    "question": "According to the best practice, should losses be tracked separately from adjustments?",
+    "ground_truth": "Yes",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 34
+  },
+  {
+    "question": "Where do stockkeeping records usually stay?",
+    "ground_truth": "They stay where products are stored (e.g., the warehouse, pharmacy, or storeroom)",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 35
+  },
+  {
+    "question": "How many copies of the issue voucher are sent by the issuing facility to the receiving facility?",
+    "ground_truth": "Three copies (1, 2, and 3)",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 36
+  },
+  {
+    "question": "What is the main difference between an RIRV and an IRV?",
+    "ground_truth": "An RIRV is used in a pull system, whereas an IRV is not specified.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 37
+  },
+  {
+    "question": "How many copies of the RIRV are kept by the requesting facility?",
+    "ground_truth": "Three copies (1, 2, and 3)",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 38
+  },
+  {
+    "question": "What is the recommended maximum number of required signatures on a transaction record?",
+    "ground_truth": "None, if possible",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 39
+  },
+  {
+    "question": "How are consumption records on a logistics management information system typically organized?",
+    "ground_truth": "Usually by the date of the visit, or date of dispensing or usage.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 40
+  },
+  {
+    "question": "What format do products need to be in for usage logs to work best?",
+    "ground_truth": "pre-printed, by brand",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 42
+  },
+  {
+    "question": "Where do consumption records usually move within a logistics system?",
+    "ground_truth": "They usually remain at the service delivery facility.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 44
+  },
+  {
+    "question": "Who typically holds stock in a reporting system in a supply chain?",
+    "ground_truth": "Storage and distribution points",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 45
+  },
+  {
+    "question": "Who typically completes the summary report in logistics management?",
+    "ground_truth": "The manager responsible for collecting the three essential logistics data items.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 46
+  },
+  {
+    "question": "What is the purpose of self-balancing reports in logistics?",
+    "ground_truth": "To help supervisors verify the accuracy of the supply on hand by comparing the closing balance with the actual quantity on hand.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 47
+  },
+  {
+    "question": "What is the advantage of linking reporting to ordering in a combined report and request form?",
+    "ground_truth": "Reporting rates often improve because facilities are more likely to submit their reports when they receive something in return.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 48
+  },
+  {
+    "question": "At what level of the system can it be determined that a manager needs to make mathematical adjustments for the missing data?",
+    "ground_truth": "The central level.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 49
+  },
+  {
+    "question": "What are the types of data presented in feedback reports for logistics management?",
+    "ground_truth": "Facilities that are stocked out or overstocked; percentages of those facilities reporting at each level; or quantities of losses and adjustments, by level.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 50
+  },
+  {
+    "question": "What is the most important principle of LMIS development?",
+    "ground_truth": "to design a relevant, useful system, you must first consider what decisions are being made and, second, how they are being made.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 52
+  },
+  {
+    "question": "What are the essential data needed for logistics management?",
+    "ground_truth": "stock on hand, consumption, and losses and adjustments.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 53
+  },
+  {
+    "question": "What is the number of aspirin tablets found in the health facility?",
+    "ground_truth": "100",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 54
+  },
+  {
+    "question": "What is the formula for assessing stock status in terms of logistics?",
+    "ground_truth": "Stock.on.hand... Average.monthly.consumption =.Months.of.stock.on.hand",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 55
+  },
+  {
+    "question": "In general, how many months' data should be analyzed to determine the Average Monthly Consumption (AMC)?",
+    "ground_truth": "three months",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 56
+  },
+  {
+    "question": "How long will the current stock of ALu 1×6 last based on recent usage?",
+    "ground_truth": "2.3 months",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 57
+  },
+  {
+    "question": "At what frequency does the central level typically receive new data?",
+    "ground_truth": "quarterly",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 58
+  },
+  {
+    "question": "How many months of stock does facility 2 have on hand?",
+    "ground_truth": "2.0",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 59
+  },
+  {
+    "question": "How might assessing stock status at lower levels in the pipeline differ from assessing it at higher levels?",
+    "ground_truth": "Assessing stock status at lower levels should be based on actual dispensed-to-user data, whereas higher levels should consider the total months of supply at all levels.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 60
+  },
+  {
+    "question": "What is the formula to adjust consumption data for incomplete reporting?",
+    "ground_truth": "Sum of all consumption reported ÷ Percentage of reports received",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 61
+  },
+  {
+    "question": "Why are adjustments to consumption data made primarily?",
+    "ground_truth": "For two reasons: (1) if resupply quantities should account for days out of stock, and (2) when estimating consumption for an entire program or country.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 62
+  },
+  {
+    "question": "At which level should the adjustment for stock on hand be done?",
+    "ground_truth": "Central level managers (or intermediate level, in some cases)",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 63
+  },
+  {
+    "question": "What is the formula for assessing stock status?",
+    "ground_truth": "Stock on hand ÷ average monthly consumption = months of stock.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 64
+  },
+  {
+    "question": "What is an example of an inventory control system found in a typical home?",
+    "ground_truth": "The milk in your kitchen",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 66
+  },
+  {
+    "question": "What is a max-min inventory control system designed to ensure?",
+    "ground_truth": "that the quantities in stock fall within an established range",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 67
+  },
+  {
+    "question": "What is the purpose of safety stock in a max-min inventory control system?",
+    "ground_truth": "to protect against stockouts caused by delayed deliveries, markedly increased demand, or other unexpected events",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 68
+  },
+  {
+    "question": "What is the average of the quantities of product dispensed to users or patients used in the calculation of average monthly consumption?",
+    "ground_truth": "the most recent three months",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 69
+  },
+  {
+    "question": "In a forced-ordering max-min system, what decision rule do storekeepers not use?",
+    "ground_truth": "the min",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 70
+  },
+  {
+    "question": "What is the main difference between a regular forced-ordering system and a delivery truck system?",
+    "ground_truth": "The way deliveries are made, in a delivery truck system, a truck is loaded with supplies and leaves an amount of each product to bring stock levels up to the max at each location.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 71
+  },
+  {
+    "question": "How many staff must be available in the office to complete logistics management and other duties while team leaders are away making deliveries?",
+    "ground_truth": "A sufficient number of staff",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 72
+  },
+  {
+    "question": "What is an advantage of a continuous review inventory control system?",
+    "ground_truth": "The storekeeper's decision rule is simple.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 73
+  },
+  {
+    "question": "What is the primary trigger to order in a two bin-max-min system?",
+    "ground_truth": "An empty bin.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 74
+  },
+  {
+    "question": "What is the goal of setting a max-min system in logistics for health commodities?",
+    "ground_truth": "To avoid stockouts of essential health products",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 75
+  },
+  {
+    "question": "What should be used to calculate the lead time stock level for different facilities?",
+    "ground_truth": "The average lead time for all facilities at the same level, if lead times are not substantially different among facilities",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 76
+  },
+  {
+    "question": "What is the general guideline for setting the safety stock level?",
+    "ground_truth": "The safety stock level should equal at least half of the review period.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 77
+  },
+  {
+    "question": "Why is the min stock level still established in a forced-ordering system?",
+    "ground_truth": "To determine the max stock level and to have a stock level on hand at the end of a normal review period to prevent stockouts when unexpected consumption or other events occur.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 78
+  },
+  {
+    "question": "What is the definition of the emergency order point (EOP)?",
+    "ground_truth": "Emergency.order.point > longest.emergency.lead.time",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 79
+  },
+  {
+    "question": "How long does it take for a product to reach a customer after it has entered the country?",
+    "ground_truth": "30 months",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 80
+  },
+  {
+    "question": "What is the single most effective method to reduce the pipeline?",
+    "ground_truth": "Eliminating an entire level from the supply chain",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 81
+  },
+  {
+    "question": "What are the five choices for implementing a max-min inventory control system?",
+    "ground_truth": "Forced-ordering, forced-ordering/delivery truck, continuous review, two bin continuous review, and standard.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 82
+  },
+  {
+    "question": "What type of supply chain system is best for products with seasonal consumption?",
+    "ground_truth": "a continuous review system",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 83
+  },
+  {
+    "question": "In an allocation system, is the upper level responsible for all calculations for their supervisees?",
+    "ground_truth": "yes",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 84
+  },
+  {
+    "question": "How many community-based distributors (CbD) agents report to the district level?",
+    "ground_truth": "Almost 30,000",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 85
+  },
+  {
+    "question": "What are the three types of max-min inventory control systems?",
+    "ground_truth": "forced-ordering, forced-ordering.delivery.truck.system, continuous.review",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 86
+  },
+  {
+    "question": "What are the two systems considered in max-min inventory control?",
+    "ground_truth": "push system or pull system",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 87
+  },
+  {
+    "question": "What is the purpose of product selection in the logistics cycle?",
+    "ground_truth": "Product selection is directly linked to serving customers by defining what products are procured and used in the health system.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 88
+  },
+  {
+    "question": "What factors are considered to assign a unique SKU to a product?",
+    "ground_truth": "Product name + dosage + form + unit size",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 89
+  },
+  {
+    "question": "What type of committee may develop the national EML?",
+    "ground_truth": "A committee that is primarily comprised of doctors, pharmacists, and ministry officials.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 90
+  },
+  {
+    "question": "Who is responsible for the registration of products in supply chain management of health commodities?",
+    "ground_truth": "The manufacturer",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 91
+  },
+  {
+    "question": "What are the criteria for a product to be registered for use in country?",
+    "ground_truth": "The product should be registered for use in country.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 92
+  },
+  {
+    "question": "What is the main reason for standardizing the list of laboratory supplies in the public health supply chain?",
+    "ground_truth": "It is less expensive and more efficient.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 93
+  },
+  {
+    "question": "What is one of the criteria to consider when selecting products for a health system?",
+    "ground_truth": "the national EML",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 94
+  },
+  {
+    "question": "What is the process of estimating the quantities and costs of products required for a health program?",
+    "ground_truth": "Quantifcation",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 96
+  },
+  {
+    "question": "What is the primary purpose of a quantification exercise in supply chain management?",
+    "ground_truth": "To inform supply chain decisions on product selection, financing, procurement, and delivery.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 97
+  },
+  {
+    "question": "How often should quantification results be reviewed and updated?",
+    "ground_truth": "at least every six months, or more often for rapidly growing or changing programs",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 98
+  },
+  {
+    "question": "What was the purpose of the quantification exercise in Malawi?",
+    "ground_truth": "To estimate the total HIV test kit requirements and costs for two government fiscal years.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 99
+  },
+  {
+    "question": "What type of data is used to forecast for preventative services, such as family planning and pregnancy prevention?",
+    "ground_truth": "consumption and services data",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 100
+  },
+  {
+    "question": "What is the total population of Tanzania according to the data quality analysis?",
+    "ground_truth": "40,454,000",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 101
+  },
+  {
+    "question": "What is the time period for the sample assumptions for quantification in Zambia?",
+    "ground_truth": "2010–2012",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 102
+  },
+  {
+    "question": "What types of personnel must be consulted to discuss assumptions and build consensus for the RAG evaluation?",
+    "ground_truth": "program managers, policymakers, procurement officers, providers (e.g., clinicians, pharmacists, nurses) and technical experts",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 103
+  },
+  {
+    "question": "What is the name of the table that describes the specific data required for the supply planning step?",
+    "ground_truth": "Table 6-7",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 104
+  },
+  {
+    "question": "What is the first step to estimate the total commodity requirements in supply planning?",
+    "ground_truth": "Determine the quantity of each product needed to meet the forecasted consumption.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 105
+  },
+  {
+    "question": "What type of product requires a reduction in the total number of patients expected to start treatment each month during the quantification process?",
+    "ground_truth": "ARV drugs",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 106
+  },
+  {
+    "question": "How often should the forecasting assumptions and supply plan be reviewed for a quantification exercise to be useful and effective?",
+    "ground_truth": "At least every six months; more frequently for rapidly growing or changing programs.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 107
+  },
+  {
+    "question": "What is the name of the error measure used to monitor forecasting error rates in public health products?",
+    "ground_truth": "Mean Absolute Percent Error (MaPe)",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 108
+  },
+  {
+    "question": "What is the process of estimating the total quantities and costs of products required for a specific health program, for a future period of time?",
+    "ground_truth": "Quantification",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 109
+  },
+  {
+    "question": "What is the name of the figure mentioned in the chapter that illustrates the Logistics Cycle?",
+    "ground_truth": "Figure 7-1",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 110
+  },
+  {
+    "question": "What entity usually instructs the procurement unit on what to purchase?",
+    "ground_truth": "Another unit within the health system",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 111
+  },
+  {
+    "question": "What is the purpose of a framework contract?",
+    "ground_truth": "It enables purchasers to draw down against an on-going arrangement, rather than engage in a one-time contract for a definite quantity of goods.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 112
+  },
+  {
+    "question": "How many phases are identified in the procurement process by the Procurement Capacity Toolkit?",
+    "ground_truth": "Three phases",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 113
+  },
+  {
+    "question": "What is the main difference between direct and indirect procurement?",
+    "ground_truth": "Direct procurement involves establishing direct contact with suppliers, whereas indirect procurement does not.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 114
+  },
+  {
+    "question": "In what year did the Pharmaceutic Service of the Organization for Eastern Caribbean States start?",
+    "ground_truth": "1986",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 115
+  },
+  {
+    "question": "What is the responsibility of the procurement unit in terms of coordinating with stakeholders?",
+    "ground_truth": "The procurement unit is responsible for coordinating with the ministry of health/ministry of finance stakeholders and funding agencies.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 116
+  },
+  {
+    "question": "What are the essential components of bidding documents that should be explained to suppliers?",
+    "ground_truth": "quantities, specifications, and quality assurance requirements of the desired products, delivery dates and required destination of the shipment, regulations, procedures, and timing for responding to the bids, and selection criteria that will be used to evaluate and select suppliers.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 117
+  },
+  {
+    "question": "What is the purpose of the evaluation committee's report?",
+    "ground_truth": "To provide a fair and complete evaluation process summary and to recommend a supplier.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 118
+  },
+  {
+    "question": "What are the three basic levels of preshipment compliance?",
+    "ground_truth": "preshipment document review, visual inspection of product, and laboratory or physical testing of the product",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 119
+  },
+  {
+    "question": "How long does the World Bank allow bidders to respond to an international bid?",
+    "ground_truth": "30–90 days",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 120
+  },
+  {
+    "question": "In what country did public procurement officials often lack technical knowledge and legal understanding?",
+    "ground_truth": "Paraguay",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 121
+  },
+  {
+    "question": "What is critical to good procurement to ensure that the procured products meet all program requirements and quality standards?",
+    "ground_truth": "good product specifications",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 122
+  },
+  {
+    "question": "What is the purpose of a physical inventory count?",
+    "ground_truth": "to determine warehouse space requirements",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 124
+  },
+  {
+    "question": "What is an important goal in the storage of health products?",
+    "ground_truth": "The correct staging of health products to ensure that orders can be filled and distributed.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 125
+  },
+  {
+    "question": "According to the U.S. Food and Drug Administration (FDA), what is the shelf life of Depo-Provera?",
+    "ground_truth": "36 months",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 126
+  },
+  {
+    "question": "Why is it important to clean and disinfect the storeroom?",
+    "ground_truth": "rodents and insects (e.g., termites and roaches) eat oral contraceptives and their packaging.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 127
+  },
+  {
+    "question": "What should be done to prevent theft of narcotics and other controlled substances in a storeroom?",
+    "ground_truth": "Lock the storeroom, limit access to authorized personnel, and track the movement of products.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 128
+  },
+  {
+    "question": "When should a visual inspection be conducted in a warehouse facility?",
+    "ground_truth": "When receiving products from the manufacturer, warehouse or health facility receives supplies, conducting a physical inventory count, dispensing products to a client, issuing products from one level to another, or receiving complaints from lower levels or customers.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 129
+  },
+  {
+    "question": "What happens to cartons that are unlabeled with the date of manufacture or expiration?",
+    "ground_truth": "Ensure that lot number, manufacturer's name, and product storage requirements are recorded on bin cards and storage labels.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 130
+  },
+  {
+    "question": "What factors should warehouse managers consider to determine space requirements?",
+    "ground_truth": "They should consider the space requirements and ideal layout for each activity and reconcile space requirements with any constraints.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 131
+  },
+  {
+    "question": "What is the maximum carton stack height to calculate floor space?",
+    "ground_truth": "2.5 m",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 132
+  },
+  {
+    "question": "What is the primary purpose of calculating space requirements for future shipments in a supply chain management context?",
+    "ground_truth": "To determine whether the warehouse has adequate space to receive the shipment and potentially plan for alternatives such as renting additional space.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 133
+  },
+  {
+    "question": "What categories do health care waste products fall under?",
+    "ground_truth": "Health care waste products are generated at health care facilities, laboratories, and research facilities.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 134
+  },
+  {
+    "question": "What type of waste disposal requires autoclaving?",
+    "ground_truth": "Some disposal requires autoclaving",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 135
+  },
+  {
+    "question": "What is the name of the system that supports and sustains a successful distribution network?",
+    "ground_truth": "Transport Management System (TMS)",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 136
+  },
+  {
+    "question": "What is shelf life?",
+    "ground_truth": "The length of time from the manufacturing date to the final date a product can be safely used, or the length of time that product can be stored without affecting its usability, safety, purity, or potency.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 137
+  },
+  {
+    "question": "What types of waste can be hazardous?",
+    "ground_truth": "sharps, used gauze, gloves, scalpels, expired drugs, laboratory reagents, etc.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 138
+  },
+  {
+    "question": "What are some of the topics covered in the chapter on Monitoring and Evaluation of Supply Chains?",
+    "ground_truth": "Basic monitoring and evaluation (M&E) terms and concepts, program cycle for supply chain systems improvement, role of M&E in strengthening supply chains, and steps in developing an M&E workplan.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 140
+  },
+  {
+    "question": "What is an example of an output in a program?",
+    "ground_truth": "The number of people trained",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 141
+  },
+  {
+    "question": "What is one important reason to do monitoring and evaluation in a supply chain?",
+    "ground_truth": "To improve program management and ultimately the logistics system performance.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 142
+  },
+  {
+    "question": "What is the main purpose of an M&E plan in the context of supply chain management of health commodities?",
+    "ground_truth": "To link strategic information obtained from various data collection systems to decisions that will improve health programs.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 143
+  },
+  {
+    "question": "How do you score the feasibility and priority of objectives and interventions?",
+    "ground_truth": "On a scale of 1–3, with 1 being low and 3 being high.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 144
+  },
+  {
+    "question": "What is the purpose of the M&E plan?",
+    "ground_truth": "To address specific weaknesses, based on solid information collected during a baseline or other assessment, and validated through a participatory process.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 145
+  },
+  {
+    "question": "What type of data can be used to calculate selected indicators in a program?",
+    "ground_truth": "Both quantitative and qualitative data collection methods",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 146
+  },
+  {
+    "question": "What level of indicators is the most difficult to measure in a program evaluation?",
+    "ground_truth": "Impact",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 147
+  },
+  {
+    "question": "What are the two types of activities that logistics and M&E personnel can categorize for collecting data on M&E indicators for supply chain management?",
+    "ground_truth": "monitoring and evaluation",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 148
+  },
+  {
+    "question": "How frequently is evaluation done compared to monitoring?",
+    "ground_truth": "Evaluation is done less frequently than monitoring.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 149
+  },
+  {
+    "question": "What were the three objectives set by the nTLP in Uganda for their assessment?",
+    "ground_truth": "to develop a general snapshot of how the system is operating, to identify strengths and weaknesses, and to develop recommendations for system improvement.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 150
+  },
+  {
+    "question": "What is the purpose of the Logistics Indicator Assessment Tool (LIAT)?",
+    "ground_truth": "The LIAT is used to assess health commodity supply chain performance and commodity availability at health facilities.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 151
+  },
+  {
+    "question": "What is the primary function of the ATLAS tool?",
+    "ground_truth": "A qualitative tool with a small sample quantitative facility survey of available commodities and equipment.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 152
+  },
+  {
+    "question": "What are the four main steps in developing a Monitoring and Evaluation (M&E) plan?",
+    "ground_truth": "conducting an assessment and using findings to develop recommendations, developing goals and objectives for the program's workplan, identifying and prioritizing interventions for achieving goals and objectives, and developing indicators that can highlight whether interventions, objectives, and goals have been achieved.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 153
+  },
+  {
+    "question": "What is the purpose of designing a logistics system?",
+    "ground_truth": "The purpose of designing a logistics system is to make the way products move rational, based on actual data, and to use standard methods.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 154
+  },
+  {
+    "question": "What is the first step in designing a logistics system?",
+    "ground_truth": "Conduct a formal or informal assessment to identify system strengths and weaknesses.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 155
+  },
+  {
+    "question": "What was the main cause of the stockouts in the country's health system?",
+    "ground_truth": "The country's lack of financial resources to procure enough products to meet client demand.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 156
+  },
+  {
+    "question": "What are the three major technical components of a system that are typically decided upon during a system design workshop?",
+    "ground_truth": "LMIS, ICS, and storage and distribution.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 157
+  },
+  {
+    "question": "What is the suggested duration of delay between the workshop and the implementation phase?",
+    "ground_truth": "immediately",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 158
+  },
+  {
+    "question": "How many reporting and ordering cycles should a pilot be managed for to properly evaluate it?",
+    "ground_truth": "two to four",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 159
+  },
+  {
+    "question": "What unit of measure should be used for commodity management in the LMIS?",
+    "ground_truth": "tablet, piece, bottle, etc.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 160
+  },
+  {
+    "question": "What is the longest lead time for an emergency order?",
+    "ground_truth": "What is the longest lead time for an emergency order?",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 161
+  },
+  {
+    "question": "What is the name of the system for which roles and responsibilities are being defined?",
+    "ground_truth": "logistics system",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 162
+  },
+  {
+    "question": "Is the system design process outlined in the document iterative?",
+    "ground_truth": "yes",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 163
+  },
+  {
+    "question": "What is the typical size of a product packaging in the given context?",
+    "ground_truth": "20 liters",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 164
+  },
+  {
+    "question": "In Zambia, who manages the parastatal Medical Stores Limited?",
+    "ground_truth": "a private contractor",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 165
+  },
+  {
+    "question": "What is the effect on storage requirements when the review period is shorter (e.g., monthly)?",
+    "ground_truth": "less storage required",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 166
+  },
+  {
+    "question": "What are the steps in the system design process?",
+    "ground_truth": "Complete an assessment and identify the need to design/redesign a system, plan and conduct the system design activity, implement the system, and monitor the system.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 167
+  },
+  {
+    "question": "What is the name of the project that published the 2010 book 'Measuring Supply Chain Performance: Guide to Key Performance Indicators for Public Health Managers'?",
+    "ground_truth": "USAID | DELIVER PROJECT",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 168
+  },
+  {
+    "question": "What is the location mentioned for the publication of the documents?",
+    "ground_truth": "Arlington, Va.",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 169
+  },
+  {
+    "question": "What year did the CSCMP publish their Supply Chain Management Definitions?",
+    "ground_truth": "2011",
+    "source": "raw_data\\Logistics Handbook.pdf",
+    "page": 170
+  },
+  {
+    "question": "Who compiled the information in this document?",
+    "ground_truth": "The Logistics Services and Transportation Sector Skills Council and its participants.",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 1
+  },
+  {
+    "question": "What is the title of the document?",
+    "ground_truth": "Objectives of Logistics Services and Transportation Sector Skills Council and key contributors",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 2
+  },
+  {
+    "question": "What was the date of the Council of Ministers Resolution #254?",
+    "ground_truth": "23/04/1442",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 3
+  },
+  {
+    "question": "Who is the SSC Chairperson?",
+    "ground_truth": "Badr Alghazi",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 4
+  },
+  {
+    "question": "What is the primary purpose of this report?",
+    "ground_truth": "to outline the sector overview, its sub-sectors, key sector transformations and skills needs in line with sector transformations, as well as define job families and career pathways in the Logistics Services and Transportation sector.",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 5
+  },
+  {
+    "question": "Who is a representative of Federation of Saudi Chamber for Logistics Services and Transportation SSC?",
+    "ground_truth": "Rakan Alotaishan",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 6
+  },
+  {
+    "question": "What is the main purpose of the establishment of the Logistics Services and Transportation Sector Skills Framework?",
+    "ground_truth": "identifying sector’s key skills needs for various roles within job families across the sector",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 7
+  },
+  {
+    "question": "What are the two primary stakeholders of Sector Skills Frameworks?",
+    "ground_truth": "Employers and Education and training entities",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 8
+  },
+  {
+    "question": "What is the primary purpose of the Sector Skills Framework for employers?",
+    "ground_truth": "To enable targeted workforce development and recruitment by aligning their workforce capabilities/requirements with evolving industry needs and standards.",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 9
+  },
+  {
+    "question": "What is the sector definition of the Logistics Services and Transportation Sector?",
+    "ground_truth": "Logistics Services and Transportation includes provision of passenger or freight transport by rail, road, maritime or air and associated activities.",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 10
+  },
+  {
+    "question": "What percentage of KSA GDP does Logistics Services and Transportation represent as of 2022?",
+    "ground_truth": "~6%",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 11
+  },
+  {
+    "question": "What is the name of the document representative mentioned?",
+    "ground_truth": "Sara Aloraimi",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 12
+  },
+  {
+    "question": "What is the definition of the sub-sector 'Maritime transport' in the Logistics Services and Transportation sector?",
+    "ground_truth": "Maritime transport of",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 13
+  },
+  {
+    "question": "What is the definition of Air Transport as a sub-sector of Logistics Services and Transportation?",
+    "ground_truth": "Transport of passengers or freight by air or space",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 14
+  },
+  {
+    "question": "What are some of the national strategies mentioned in the document?",
+    "ground_truth": "National Industrial Development and Logistics Program (NIDLP), National Transports and Logistics Strategy, Saudi Aviation Strategy, etc.",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 15
+  },
+  {
+    "question": "What is one main category driving the rapid transformations in the Logistics Services and Transportation sector globally?",
+    "ground_truth": "Environmental, social and governance",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 16
+  },
+  {
+    "question": "What is one of the organizations mentioned that has introduced regulations addressing ocean freight's environmental impact?",
+    "ground_truth": "The International Maritime Organization",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 17
+  },
+  {
+    "question": "How many major transformations are identified in the Customer preferences space?",
+    "ground_truth": "7",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 18
+  },
+  {
+    "question": "What is driving the growth of private aviation services?",
+    "ground_truth": "The demand for private aviation services is growing, driven by the need for enhanced customer experiences in business and medical emergency transportation.",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 19
+  },
+  {
+    "question": "What is the name of the program that creates and improves the performance of logistics hubs in Saudi Arabia?",
+    "ground_truth": "National Industrial Development and Logistics Program (NIDLP)",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 20
+  },
+  {
+    "question": "What was the growth rate of global e-commerce sales in 2020 compared to previous years?",
+    "ground_truth": "28%",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 21
+  },
+  {
+    "question": "What is an example of a sector transformation related to logistics services and transportation?",
+    "ground_truth": "Logistics Services and Transportation sector",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 22
+  },
+  {
+    "question": "What type of management is involved in the design of circular economy strategies?",
+    "ground_truth": "Change management",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 23
+  },
+  {
+    "question": "What is the name of the sector skills framework overview mentioned in the document?",
+    "ground_truth": "L o g i s t i c s  S e r v i c e s  a n d  T r a n s p o r t a t i o n  S e c t o r  S k i l l s  F r a m e w o r k  O v e r v i e w",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 24
+  },
+  {
+    "question": "What is the name of one of the sectors mentioned in the document?",
+    "ground_truth": "Logistics Services and Transport",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 25
+  },
+  {
+    "question": "What is the purpose of the Logistics Services and Transportation Sector Skills Framework report?",
+    "ground_truth": "To serve as a resource for anyone interested in understanding the diverse roles within the Logistics Services and Transportation sector, identifying key skills supporting workforce development, developing policies and training programs.",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 26
+  },
+  {
+    "question": "How many job families are mapped across sector value chains in the analysis?",
+    "ground_truth": "30",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 27
+  },
+  {
+    "question": "How many key job families are identified within the Logistics Services and Transportation sector?",
+    "ground_truth": "30",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 28
+  },
+  {
+    "question": "How many key job families are identified within the Logistics Services and Transportation sector?",
+    "ground_truth": "30",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 29
+  },
+  {
+    "question": "How many key elements does the Logistics Services and Transportation value chain have?",
+    "ground_truth": "4",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 30
+  },
+  {
+    "question": "What are the two main categories of value chain mentioned in the document?",
+    "ground_truth": "Logistics Services and Transportation",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 31
+  },
+  {
+    "question": "How many key elements does the Travel value chain have?",
+    "ground_truth": "3",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 32
+  },
+  {
+    "question": "What is the job family mapped to the Travel value chain?",
+    "ground_truth": "Health, safety, security, environment and quality, Sales and Customer service, Network planning, Taxi operations, Rail operations Bus Operation, Airline flight operations Aviation maintenance, Railway maintenance, Vehicle fleet maintenance (EV and Non-EV), Shipping management and operations, Airport and ground operations, Post Processing, Planning and Booking, Journey, Maritime and vessel maintenance, Logistics Services and Transportation // Sector’s value chains, job families and their pathways",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 33
+  },
+  {
+    "question": "How many job families are detailed out in the Logistics Services and Transportation sector?",
+    "ground_truth": "30",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 34
+  },
+  {
+    "question": "How many career pathway maps have been developed across the 30 job families in the Logistics Services and Transportation sector?",
+    "ground_truth": "20",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 35
+  },
+  {
+    "question": "Across the job families depicted in the profiles, how many job roles were identified?",
+    "ground_truth": "280",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 36
+  },
+  {
+    "question": "How many job roles were identified across the job families depicted in the profiles?",
+    "ground_truth": "38",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 37
+  },
+  {
+    "question": "How many job roles are there in the Taxi Operations job family?",
+    "ground_truth": "4",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 38
+  },
+  {
+    "question": "What is the skill requirement for Bus Operations?",
+    "ground_truth": "accident and incident response management, bus service route operations training and development, bus vehicle operations, etc.",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 39
+  },
+  {
+    "question": "What are the mandatory licenses for the operation of taxi and bus services in the Kingdom?",
+    "ground_truth": "Taxi Routing and Bus Routing licenses issued by Transport General Authority, and a valid Driver’s license issued by the Ministry of Interior.",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 40
+  },
+  {
+    "question": "How many job roles are there in the Transportation Operations job family?",
+    "ground_truth": "11",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 41
+  },
+  {
+    "question": "What is the name of one certification required for the job family roles?",
+    "ground_truth": "International Certificate in Logistics and Transport (CILT)",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 42
+  },
+  {
+    "question": "How many key job roles are there in the Courier, Express, and Parcel Operations job family?",
+    "ground_truth": "8",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 43
+  },
+  {
+    "question": "What is the prevalent certification for the listed roles in the Kingdom?",
+    "ground_truth": "Certified in Logistics Transportation, and Distribution (CLTD) through American Production and Inventory Control Society (APICS)",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 44
+  },
+  {
+    "question": "How many key job roles are there in the Vehicle Fleet Maintenance family?",
+    "ground_truth": "8",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 45
+  },
+  {
+    "question": "What is a relevant certification/ license for Logistics Services and Transportation professionals?",
+    "ground_truth": "Fundamentals of Engineering Certificate (FE) by National Council of Examiners for Engineering and Surveying",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 46
+  },
+  {
+    "question": "How many key job roles are there in the Rail Operations job family?",
+    "ground_truth": "13",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 47
+  },
+  {
+    "question": "What type of license is mandatory for rail operation services in the Kingdom?",
+    "ground_truth": "License to Transport Passengers and Freight is mandatory for rail operation services.",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 48
+  },
+  {
+    "question": "How many key job roles are in the Railway Maintenance job family?",
+    "ground_truth": "23",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 49
+  },
+  {
+    "question": "What is the highest title mentioned in the Railway Maintenance job family profiles and career pathway maps?",
+    "ground_truth": "Engineering Head",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 50
+  },
+  {
+    "question": "What is required by law for practicing engineers and technicians in the Kingdom?",
+    "ground_truth": "membership with the Saudi Council of Engineers (SCE)",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 51
+  },
+  {
+    "question": "How many key job roles are there in this job family?",
+    "ground_truth": "28",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 52
+  },
+  {
+    "question": "What is the relevant USOC unit-tier code for the job family 'Aviation Maintenance'?",
+    "ground_truth": "1120 Managing directors and chief",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 53
+  },
+  {
+    "question": "What is one of the relevant certifications/ licenses required for this job?",
+    "ground_truth": "Aircraft Maintenance Technician license through General Authority of Civil Aviation (GACA)",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 54
+  },
+  {
+    "question": "How many job roles are there in this job family?",
+    "ground_truth": "17",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 55
+  },
+  {
+    "question": "What is the name of the certification for incident prevention and airside operations provided by the International Air Transport Association?",
+    "ground_truth": "International Air Transport Association certificate/diploma courses on incident prevention, airside operations, ground operations",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 56
+  },
+  {
+    "question": "How many key job roles are in the job family?",
+    "ground_truth": "24",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 57
+  },
+  {
+    "question": "What is the relevant USOC unit-tier code for Airport and Ground Operations?",
+    "ground_truth": "1324, 5111 and 9333",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 58
+  },
+  {
+    "question": "What are some of the certifications for roles in the airline ground operations and management job family?",
+    "ground_truth": "Safety, compliance and airport operations trainings through Saudi Academy of Civil Aviation (SACA) and Ground operations management trainings and diploma by International Air Transport Association",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 59
+  },
+  {
+    "question": "How many key job roles are there in the Shipping Management and Operations job family?",
+    "ground_truth": "14",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 60
+  },
+  {
+    "question": "What certifications/ licenses are required for the job roles?",
+    "ground_truth": "Ships and Maritime Units Registration with Transport General Authority, Saudi Arabia and International Certificate in Logistics and Transport (CILT)",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 61
+  },
+  {
+    "question": "How many key job roles are there in the Maritime and Vessel Maintenance job family?",
+    "ground_truth": "4",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 62
+  },
+  {
+    "question": "What is the USOC unit-tier code for Manufacturing managers?",
+    "ground_truth": "1321",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 63
+  },
+  {
+    "question": "What is the main difference between roles under Maritime and Vessel Maintenance and Maritime Services?",
+    "ground_truth": "Roles under Maritime and Vessel Maintenance require specialized skills in maritime maintenance, while roles under Maritime Services are more focused on operations.",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 64
+  },
+  {
+    "question": "Is membership with the Saudi Council of Engineers mandatory for practicing engineers and technicians in the Kingdom?",
+    "ground_truth": "Yes",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 65
+  },
+  {
+    "question": "How many key job roles are in the Port Operations job family?",
+    "ground_truth": "11",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 66
+  },
+  {
+    "question": "What is the International Certificate in Logistics and Transport also known as?",
+    "ground_truth": "CILT",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 67
+  },
+  {
+    "question": "How many key job roles are there in the Freight Forwarding job family?",
+    "ground_truth": "8",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 68
+  },
+  {
+    "question": "What is the main requirement for custom brokers in the Kingdom?",
+    "ground_truth": "A valid FIATA certificate/Diploma in Freight Forwarding",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 69
+  },
+  {
+    "question": "What are the two job families presented on a single career pathway map?",
+    "ground_truth": "Purchasing and Procurement and Special Product Handling",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 70
+  },
+  {
+    "question": "What USOC unit-tier codes are relevant to the job family of Supply, distribution and related managers?",
+    "ground_truth": "1324",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 71
+  },
+  {
+    "question": "What is one of the key skills required for Special Product Handling?",
+    "ground_truth": "Automated logistics and port infrastructure management",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 72
+  },
+  {
+    "question": "What is the main focus of the job family that clusters roles that deal with projecting future product requirements to inform inventory management and ensure smooth retrieval and dispatch in warehouses?",
+    "ground_truth": "projecting future product requirements to inform inventory management and ensure smooth retrieval and dispatch in warehouses",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 73
+  },
+  {
+    "question": "What is the job family profile related to Demand Forecasting?",
+    "ground_truth": "Analysis and Reporting",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 74
+  },
+  {
+    "question": "What is the main task required for roles under Demand Forecasting?",
+    "ground_truth": "trend forecasting and analysis",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 75
+  },
+  {
+    "question": "What type of product is involved in the job family for product customization?",
+    "ground_truth": "products",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 77
+  },
+  {
+    "question": "What is one of the key relevant skills under the category of Logistics Solutioning?",
+    "ground_truth": "Logistics operations research and planning",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 79
+  },
+  {
+    "question": "What type of membership is mandatory for all practicing engineers and technicians in the Kingdom?",
+    "ground_truth": "Membership with the Saudi Council of Engineers",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 80
+  },
+  {
+    "question": "How many key job roles are there in the Sales and Customer Service job family?",
+    "ground_truth": "8",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 81
+  },
+  {
+    "question": "What is the main category of skills required for the listed job roles?",
+    "ground_truth": "Sales and customer care",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 82
+  },
+  {
+    "question": "How many job roles are in the Network Planning job family?",
+    "ground_truth": "4",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 83
+  },
+  {
+    "question": "What is the job family code for Civil engineers?",
+    "ground_truth": "2142",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 84
+  },
+  {
+    "question": "What is one of the main skills required by job roles under Logistics Process Improvement job family?",
+    "ground_truth": "logistics automation and process optimization",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 85
+  },
+  {
+    "question": "What is the name of the second certification listed under Certifications: Logistics Process Improvement?",
+    "ground_truth": "Certified International Supply Chain Professional (CISCP)",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 86
+  },
+  {
+    "question": "How many key job roles are in the Engineering and Technical Service job family?",
+    "ground_truth": "4",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 87
+  },
+  {
+    "question": "What are the relevant USOC unit-tier codes for the Manufacturing managers job family?",
+    "ground_truth": "1321",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 88
+  },
+  {
+    "question": "Is membership with the Saudi Council of Engineers mandatory for practicing engineers and technicians in the Kingdom?",
+    "ground_truth": "Yes",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 89
+  },
+  {
+    "question": "What are the two job families that have closely related job roles contributing to safety, security, and compliance in logistics operations?",
+    "ground_truth": "Health, Safety, Security, Environment and Quality and Regulatory Compliance",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 90
+  },
+  {
+    "question": "What are the relevant USOC unit-tier codes for the job family of Regulations and Trade Controls Manager?",
+    "ground_truth": "1349, 1213",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 91
+  },
+  {
+    "question": "What is the main focus of Regulatory compliance job family's roles?",
+    "ground_truth": "Effective policy and regulations implementation",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 92
+  },
+  {
+    "question": "What certifications are required for the job family profiles (Health, Safety, Security, Environment and Quality) and Regulatory Compliance?",
+    "ground_truth": "NEBOSH International General Certificate on Health and Safety, Certified Operational Safety Auditor, Automated Safety Systems Expert, and Professional Certificate for Certified Compliance Officer (CCO)",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 93
+  },
+  {
+    "question": "What is the definition of Data governance in the context of sector transformations?",
+    "ground_truth": "Develop, implement and practice guidelines, laws, and regulations across the organization for the handling of data at various stages in its lifecycle as well as the provision of advice on proper data handling and resolution of data breaches",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 95
+  },
+  {
+    "question": "What advanced technologies are used to automate and integrate automated warehousing systems?",
+    "ground_truth": "Oracle and SAP (Logistics modules)",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 96
+  },
+  {
+    "question": "What skill is required for overseeing the prototyping process of 3D printing?",
+    "ground_truth": "Rapid prototyping coordination",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 97
+  },
+  {
+    "question": "What is one example of regulatory compliance reporting in the given context?",
+    "ground_truth": "Develop regulatory documents required to meet regulatory reporting requirements and obligations",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 98
+  },
+  {
+    "question": "What is one of the skills required for supply chain robustness in the logistics services and transportation sector?",
+    "ground_truth": "Demand forecasting",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 99
+  },
+  {
+    "question": "What is the main goal of enhancing the final delivery phase in last-mile delivery optimization?",
+    "ground_truth": "To meet customer expectations for speed, efficiency, and reliability.",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 100
+  },
+  {
+    "question": "What is an example of a technology allowing for higher transparency and visibility in logistics services and transportation?",
+    "ground_truth": "Blockchain technologies, mobile applications",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 101
+  },
+  {
+    "question": "What is an example of a skill defined for Private aviation services?",
+    "ground_truth": "Flight planning",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 102
+  },
+  {
+    "question": "What is the name of the organization responsible for the Green Ports initiative?",
+    "ground_truth": "General Authority for Ports (Mawani)",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 103
+  },
+  {
+    "question": "What is the definition of Artificial Intelligence (AI)?",
+    "ground_truth": "A field of computer science dedicated to creating systems capable of performing tasks that usually require human intelligence.",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 104
+  },
+  {
+    "question": "What is the definition of Multimodality in the context of transportation?",
+    "ground_truth": "The use of multiple modes of transport within a single trip to optimize efficiency and convenience.",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 105
+  },
+  {
+    "question": "What is the full name of the Association for Supply Chain Management?",
+    "ground_truth": "ASCM",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 106
+  },
+  {
+    "question": "What is the title of the person who is Advisor on Human Capability Development?",
+    "ground_truth": "Badr Alghazi",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 107
+  },
+  {
+    "question": "Who is the current CEO of the organization?",
+    "ground_truth": "Samir Berqdar",
+    "source": "raw_data\\Logistics Services and Transportation Sector Skills Intro Report_EN.pdf",
+    "page": 108
+  },
+  {
+    "question": "What is one of the elements of logistics management?",
+    "ground_truth": "Resource assessments",
+    "source": "raw_data\\Logistics.pdf",
+    "page": 0
+  },
+  {
+    "question": "What are the primary elements of logistics management?",
+    "ground_truth": "Resource assessments, Lead times, Supply and demand management, Sourcing and procurement, Packaging, shipment protection, labeling, and tracking, Inventories, Transport, Consolidation centers, warehouses, and laydown areas, Site-based logistics, Waste management",
+    "source": "raw_data\\Logistics.pdf",
+    "page": 1
+  },
+  {
+    "question": "What are some factors that can influence construction material lead times?",
+    "ground_truth": "overall market demand, queuing times for mill or fabrication capacity, local shortages of sand, aggregate, or concrete",
+    "source": "raw_data\\Logistics.pdf",
+    "page": 2
+  },
+  {
+    "question": "Where is the most desirable point in the logistics chain for inventories to be stored?",
+    "ground_truth": "Not specified in the document chunk, however, the alternative points mentioned are consolidation centers, off-site warehouses, on-site warehouses, and laydown areas.",
+    "source": "raw_data\\Logistics.pdf",
+    "page": 3
+  },
+  {
+    "question": "What activities are included in site-based logistics management?",
+    "ground_truth": "Storage and dispatch of bulk materials, handling of material, equipment, and tool flows, and provision, maintenance, and fueling of on-site vehicles.",
+    "source": "raw_data\\Logistics.pdf",
+    "page": 4
+  },
+  {
+    "question": "What traditional definition of a construction site needs to be broadened to reflect changes in the construction process?",
+    "ground_truth": "The definition of a construction site must be broadened to include off-site fabrication and preassembly facilities as well as module yards.",
+    "source": "raw_data\\Logistics.pdf",
+    "page": 5
+  },
+  {
+    "question": "What are some key flows beyond labor, materials, and equipment that logistics management involves?",
+    "ground_truth": "information, finance, and risk flows",
+    "source": "raw_data\\Logistics.pdf",
+    "page": 6
+  },
+  {
+    "question": "Who is the publisher of The Open Logistics Report?",
+    "ground_truth": "Open Logistics Foundation",
+    "source": "raw_data\\open-logistics-report-v101.pdf",
+    "page": 1
+  },
+  {
+    "question": "What is the name of the organization responsible for the report?",
+    "ground_truth": "Open Logistics Foundation",
+    "source": "raw_data\\open-logistics-report-v101.pdf",
+    "page": 2
+  },
+  {
+    "question": "How much revenue does the logistics sector generate in Europe?",
+    "ground_truth": "more than 1 trillion EUR",
+    "source": "raw_data\\open-logistics-report-v101.pdf",
+    "page": 3
+  },
+  {
+    "question": "What are some significant challenges faced by the logistics industry?",
+    "ground_truth": "system incompatibility, technological disruptions, and resource constraints",
+    "source": "raw_data\\open-logistics-report-v101.pdf",
+    "page": 4
+  },
+  {
+    "question": "What is the ultimate goal mentioned in the context of technological innovations?",
+    "ground_truth": "substantially contributing to 'rebalancing the world'",
+    "source": "raw_data\\open-logistics-report-v101.pdf",
+    "page": 5
+  },
+  {
+    "question": "What was the economic benefit of open source across all 27 EU countries five years ago?",
+    "ground_truth": "65 to 95 billion euros",
+    "source": "raw_data\\open-logistics-report-v101.pdf",
+    "page": 6
+  },
+  {
+    "question": "According to the Open Source Initiative, what are the ten criteria for open source software?",
+    "ground_truth": "https://opensource.org/osd/",
+    "source": "raw_data\\open-logistics-report-v101.pdf",
+    "page": 7
+  },
+  {
+    "question": "What are the characteristics of open standards according to the Open Forum Europe recommendations?",
+    "ground_truth": "Collaboration among all interested parties, a transparent and published decision-making process subject to expert review, a transparent and published feedback and ratification procedure to ensure quality.",
+    "source": "raw_data\\open-logistics-report-v101.pdf",
+    "page": 8
+  },
+  {
+    "question": "What are the four main ways open source software can be leveraged?",
+    "ground_truth": "Incorporation, Linking, Modification, Translation",
+    "source": "raw_data\\open-logistics-report-v101.pdf",
+    "page": 9
+  },
+  {
+    "question": "What is the year when Linux was initiated?",
+    "ground_truth": "1990s",
+    "source": "raw_data\\open-logistics-report-v101.pdf",
+    "page": 10
+  },
+  {
+    "question": "What type of projects are the profiles based on?",
+    "ground_truth": "Open source projects in logistics",
+    "source": "raw_data\\open-logistics-report-v101.pdf",
+    "page": 11
+  },
+  {
+    "question": "What is the number of applications listed in the given document chunk?",
+    "ground_truth": "10",
+    "source": "raw_data\\open-logistics-report-v101.pdf",
+    "page": 12
+  },
+  {
+    "question": "What is the name of the license used by Apache OFBiz?",
+    "ground_truth": "Apache License 2.0",
+    "source": "raw_data\\open-logistics-report-v101.pdf",
+    "page": 13
+  },
+  {
+    "question": "What is the name of the open-source working group 'Border' is part of?",
+    "ground_truth": "Open Customs Blockchain",
+    "source": "raw_data\\open-logistics-report-v101.pdf",
+    "page": 14
+  },
+  {
+    "question": "What is the licence name of Budibase?",
+    "ground_truth": "GNU General Public License v3.0 only",
+    "source": "raw_data\\open-logistics-report-v101.pdf",
+    "page": 15
+  },
+  {
+    "question": "What is the primary purpose of the Eclipse SUMO project?",
+    "ground_truth": "To create a common mobility simulation platform for industrial applications and academic research.",
+    "source": "raw_data\\open-logistics-report-v101.pdf",
+    "page": 16
+  },
+  {
+    "question": "What is the preferred integration method of the eCMR software?",
+    "ground_truth": "integration of software backend into business suites",
+    "source": "raw_data\\open-logistics-report-v101.pdf",
+    "page": 17
+  },
+  {
+    "question": "What type of software license does ERPNext use?",
+    "ground_truth": "MIT License",
+    "source": "raw_data\\open-logistics-report-v101.pdf",
+    "page": 18
+  },
+  {
+    "question": "What is the license used by GreaterWMS?",
+    "ground_truth": "Apache 2.0 License",
+    "source": "raw_data\\open-logistics-report-v101.pdf",
+    "page": 19
+  },
+  {
+    "question": "What is the primary focus of Metasfresh?",
+    "ground_truth": "retail companies",
+    "source": "raw_data\\open-logistics-report-v101.pdf",
+    "page": 20
+  },
+  {
+    "question": "What is the primary target group for the ModernWMS software system?",
+    "ground_truth": "small and medium-sized companies with manual warehouses",
+    "source": "raw_data\\open-logistics-report-v101.pdf",
+    "page": 21
+  },
+  {
+    "question": "When did the development of myWMS begin?",
+    "ground_truth": "2001",
+    "source": "raw_data\\open-logistics-report-v101.pdf",
+    "page": 22
+  },
+  {
+    "question": "What is the license name used by the NE:ONE project?",
+    "ground_truth": "Open Logistics Foundation License 1.3",
+    "source": "raw_data\\open-logistics-report-v101.pdf",
+    "page": 23
+  },
+  {
+    "question": "What is the licensing model of the Odoo Community Edition?",
+    "ground_truth": "GNU Lesser General Public Licence v3",
+    "source": "raw_data\\open-logistics-report-v101.pdf",
+    "page": 24
+  },
+  {
+    "question": "What type of license does OpenBoxes use?",
+    "ground_truth": "Eclipse Public License 1.0",
+    "source": "raw_data\\open-logistics-report-v101.pdf",
+    "page": 25
+  },
+  {
+    "question": "What is the licence name of Open Door Logistics?",
+    "ground_truth": "GNU Lesser General Public License v3.0 only",
+    "source": "raw_data\\open-logistics-report-v101.pdf",
+    "page": 26
+  },
+  {
+    "question": "What is the type of license under which openTCS is released?",
+    "ground_truth": "MIT License",
+    "source": "raw_data\\open-logistics-report-v101.pdf",
+    "page": 28
+  },
+  {
+    "question": "What is the licence name of the OpenTripModel?",
+    "ground_truth": "Creative Commons Attribution-ShareAlike 4.0 International",
+    "source": "raw_data\\open-logistics-report-v101.pdf",
+    "page": 29
+  },
+  {
+    "question": "What is the licence name of OpenWMS?",
+    "ground_truth": "Apache 2.0 License",
+    "source": "raw_data\\open-logistics-report-v101.pdf",
+    "page": 30
+  },
+  {
+    "question": "What is the licence name of PartKeepr?",
+    "ground_truth": "GNU General Public License v3.0 only",
+    "source": "raw_data\\open-logistics-report-v101.pdf",
+    "page": 31
+  },
+  {
+    "question": "Who are the founders of the Open Logistics Foundation?",
+    "ground_truth": "Dachser, DB Schenker, duisport, and Rhenus",
+    "source": "raw_data\\open-logistics-report-v101.pdf",
+    "page": 32
+  },
+  {
+    "question": "What is the purpose of the Open Logistics Foundation?",
+    "ground_truth": "To enhance the efficiency and sustainability of European logistics.",
+    "source": "raw_data\\open-logistics-report-v101.pdf",
+    "page": 33
+  },
+  {
+    "question": "Who are the authors of the document?",
+    "ground_truth": "Dr. -Ing. Michael Schmidt, Dr. -Ing. Marius Brehler, Jens Leveling, Andreas Nettsträter, Open Logistics Foundation",
+    "source": "raw_data\\open-logistics-report-v101.pdf",
+    "page": 34
+  },
+  {
+    "question": "What is the main purpose of the Open Logistics Report?",
+    "ground_truth": "To explore the worldwide landscape of open source projects and initiatives in the business sector.",
+    "source": "raw_data\\open-logistics-report-v101.pdf",
+    "page": 35
+  },
+  {
+    "question": "What was Saudi Arabia ranked as in the World Bank's Ease of Doing Business report last year?",
+    "ground_truth": "one of the world's fastest economic reformers",
+    "source": "raw_data\\SBT_Report_2021.pdf",
+    "page": 1
+  },
+  {
+    "question": "What is the name of the company mentioned in the document?",
+    "ground_truth": "SBT",
+    "source": "raw_data\\SBT_Report_2021.pdf",
+    "page": 2
+  },
+  {
+    "question": "What is the current value of the Kingdom's logistics market?",
+    "ground_truth": "USD 18 billion",
+    "source": "raw_data\\SBT_Report_2021.pdf",
+    "page": 3
+  },
+  {
+    "question": "What is the current value of the Kingdom's logistics market?",
+    "ground_truth": "USD 18 billion",
+    "source": "raw_data\\SBT_Report_2021.pdf",
+    "page": 4
+  },
+  {
+    "question": "According to the US-Saudi Business Council report, what was the decline in infrastructure spending last year?",
+    "ground_truth": "18.9%",
+    "source": "raw_data\\SBT_Report_2021.pdf",
+    "page": 5
+  },
+  {
+    "question": "What was the compounded annual growth rate (CAGR) of infrastructure and transportation spending from 2017 to 2020?",
+    "ground_truth": "12.5%",
+    "source": "raw_data\\SBT_Report_2021.pdf",
+    "page": 6
+  },
+  {
+    "question": "What was the compounded annual growth rate (CAGR) of the Saudi government's infrastructure and transportation spending from 2017 to 2020?",
+    "ground_truth": "12.5%",
+    "source": "raw_data\\SBT_Report_2021.pdf",
+    "page": 7
+  },
+  {
+    "question": "What is the year in which Saudi Arabia aims to develop its infrastructure, increase air travel and air freight, and streamline port procedures?",
+    "ground_truth": "2030",
+    "source": "raw_data\\SBT_Report_2021.pdf",
+    "page": 8
+  },
+  {
+    "question": "What is the approximate length of the journey between Oman and Saudi Arabia via the Rub' Al Khali desert?",
+    "ground_truth": "1638 km",
+    "source": "raw_data\\SBT_Report_2021.pdf",
+    "page": 9
+  },
+  {
+    "question": "How many kilometers of new roads were undertaken in addition to existing ones?",
+    "ground_truth": "1720 km",
+    "source": "raw_data\\SBT_Report_2021.pdf",
+    "page": 10
+  },
+  {
+    "question": "What is the current length of Saudi's rail network?",
+    "ground_truth": "more than 5000km",
+    "source": "raw_data\\SBT_Report_2021.pdf",
+    "page": 11
+  },
+  {
+    "question": "How many container-handling capacities does the Saudi ports network have in a year?",
+    "ground_truth": "13.7 million",
+    "source": "raw_data\\SBT_Report_2021.pdf",
+    "page": 12
+  },
+  {
+    "question": "According to the Doing Business 2020 report, in which year did Saudi Arabia earn a spot in the top-10 most improved global business climates?",
+    "ground_truth": "2019",
+    "source": "raw_data\\SBT_Report_2021.pdf",
+    "page": 13
+  },
+  {
+    "question": "What percentage of imported goods can clear customs within 24 hours under the new system?",
+    "ground_truth": "almost 80%",
+    "source": "raw_data\\SBT_Report_2021.pdf",
+    "page": 14
+  },
+  {
+    "question": "What percentage decrease in the total cost for exporters is mentioned in the document?",
+    "ground_truth": "53%",
+    "source": "raw_data\\SBT_Report_2021.pdf",
+    "page": 15
+  },
+  {
+    "question": "What is the estimated allocation to the King Abdulaziz Port as of March 2020?",
+    "ground_truth": "USD 750m",
+    "source": "raw_data\\SBT_Report_2021.pdf",
+    "page": 16
+  },
+  {
+    "question": "How many entities are integrated in the import-export process by Fasah?",
+    "ground_truth": "more than 25 entities",
+    "source": "raw_data\\SBT_Report_2021.pdf",
+    "page": 17
+  },
+  {
+    "question": "What is the target value of Saudi Arabia's annual exports by 2030?",
+    "ground_truth": "SR1tr (USD 266.6bn)",
+    "source": "raw_data\\SBT_Report_2021.pdf",
+    "page": 18
+  },
+  {
+    "question": "What is the percentage of smartphone penetration in China ($, 2017)?",
+    "ground_truth": "84%",
+    "source": "raw_data\\SBT_Report_2021.pdf",
+    "page": 19
+  },
+  {
+    "question": "In which year did the global pandemic spark an e-commerce boom?",
+    "ground_truth": "2020",
+    "source": "raw_data\\SBT_Report_2021.pdf",
+    "page": 21
+  },
+  {
+    "question": "What is the butterfly effect in the context of supply chains?",
+    "ground_truth": "The butterfly effect is when small changes in a system’s initial conditions have much larger unintended consequences.",
+    "source": "raw_data\\supply_chain_optimization_for_SMEs_ِEN.pdf",
+    "page": 1
+  },
+  {
+    "question": "What percentage of companies using Generative AI expect a return on investment by 2025?",
+    "ground_truth": "87%",
+    "source": "raw_data\\supply_chain_optimization_for_SMEs_ِEN.pdf",
+    "page": 2
+  },
+  {
+    "question": "What are the four main pillars of the society's strategy?",
+    "ground_truth": "raising awareness, building capabilities, enhancing businesses, and increasing job opportunities",
+    "source": "raw_data\\supply_chain_optimization_for_SMEs_ِEN.pdf",
+    "page": 3
+  },
+  {
+    "question": "What type of modern technologies does Globe Group use to advance innovation in logistics?",
+    "ground_truth": "automation and digitization",
+    "source": "raw_data\\supply_chain_optimization_for_SMEs_ِEN.pdf",
+    "page": 4
+  },
+  {
+    "question": "What percentage of global seaborne trade passes through Saudi boundaries?",
+    "ground_truth": "30%",
+    "source": "raw_data\\supply_chain_optimization_for_SMEs_ِEN.pdf",
+    "page": 5
+  },
+  {
+    "question": "What percentage of SMEs surveyed reported similar or increased revenue in 2023?",
+    "ground_truth": "85%",
+    "source": "raw_data\\supply_chain_optimization_for_SMEs_ِEN.pdf",
+    "page": 6
+  },
+  {
+    "question": "What is the total amount of incentives earmarked for the GSCRI initiative?",
+    "ground_truth": "$2.7bn",
+    "source": "raw_data\\supply_chain_optimization_for_SMEs_ِEN.pdf",
+    "page": 7
+  },
+  {
+    "question": "What types of financial incentives does GSCRI provide?",
+    "ground_truth": "CAPEX grants, employee-related operating expenses (OPEX), and non-employee OPEX",
+    "source": "raw_data\\supply_chain_optimization_for_SMEs_ِEN.pdf",
+    "page": 8
+  },
+  {
+    "question": "What is the typical minimum term for long-term contracts when renting a warehouse in Saudi Arabia?",
+    "ground_truth": "one year",
+    "source": "raw_data\\supply_chain_optimization_for_SMEs_ِEN.pdf",
+    "page": 9
+  },
+  {
+    "question": "In what year was Saee founded?",
+    "ground_truth": "2017",
+    "source": "raw_data\\supply_chain_optimization_for_SMEs_ِEN.pdf",
+    "page": 10
+  },
+  {
+    "question": "What does digital transformation provide SMEs in terms of supply chain management?",
+    "ground_truth": "greater flexibility, efficiency, and visibility",
+    "source": "raw_data\\supply_chain_optimization_for_SMEs_ِEN.pdf",
+    "page": 11
+  },
+  {
+    "question": "What was Sary's initial goal when it first started?",
+    "ground_truth": "Sary's initial goal was to make micro, small, and medium enterprises succeed.",
+    "source": "raw_data\\supply_chain_optimization_for_SMEs_ِEN.pdf",
+    "page": 12
+  },
+  {
+    "question": "In what year did RedBox launch?",
+    "ground_truth": "2019",
+    "source": "raw_data\\supply_chain_optimization_for_SMEs_ِEN.pdf",
+    "page": 13
+  },
+  {
+    "question": "What percentage increase in the cost of moving a container from China to North America occurred a year into the pandemic?",
+    "ground_truth": "650%",
+    "source": "raw_data\\supply_chain_optimization_for_SMEs_ِEN.pdf",
+    "page": 14
+  },
+  {
+    "question": "What is the primary goal of a Lean-management practice (LMP)?",
+    "ground_truth": "Reduce waste, overproduction, and inefficiencies.",
+    "source": "raw_data\\supply_chain_optimization_for_SMEs_ِEN.pdf",
+    "page": 15
+  },
+  {
+    "question": "When was Monsha'at established?",
+    "ground_truth": "2016",
+    "source": "raw_data\\supply_chain_optimization_for_SMEs_ِEN.pdf",
+    "page": 16
+  },
+  {
+    "question": "What is the name of the report series mentioned in the document?",
+    "ground_truth": "MONSHA’ AT REPORT SERIES",
+    "source": "raw_data\\supply_chain_optimization_for_SMEs_ِEN.pdf",
+    "page": 17
+  }
+]
